@@ -1,2 +1,0 @@
-file1 was created in local
-but edited in remote git
