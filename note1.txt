@@ -1,1 +1,2 @@
 this is note 1 in Devopd1 online reposetory
+first git pill in aws putty
